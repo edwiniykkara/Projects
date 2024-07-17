@@ -1,5 +1,5 @@
 /*
-Popularity Across Regions - Comparison
+US Baby Name Analysis (UBN) - Popularity Across Regions - Comparison
 */
 
 /*
